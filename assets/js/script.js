@@ -157,3 +157,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+const openpage = function openResume() {
+  window.location.href = './assets/karthik_25.pdf';
+}
